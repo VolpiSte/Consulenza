@@ -1,7 +1,7 @@
 package it.paleocapa.volpis;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Predicate;
+//import java.util.function.Predicate;
 
 class Progetto {
     private List<Personale> membriPersonale;

@@ -32,5 +32,4 @@ class Tecnico extends Personale implements Specializzato {
         double costoBase = getAreaCompetenza().equals("info-tel") ? 40.0 : 50.0;
         return costoBase + anniLavorati;
     }
-
 }
